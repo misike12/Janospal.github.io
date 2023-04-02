@@ -1,0 +1,2 @@
+# Janospal.hu
+Nem lopott
