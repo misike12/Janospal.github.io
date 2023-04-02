@@ -1,0 +1,52 @@
+/*
+CTC Separate Stylesheet
+Updated: 2020-07-22 20:41:48
+Theme Name: János Pál
+Template: Divi
+Version: 4.5.1.1595443308
+*/
+
+
+@font-face {
+    font-family: 'Baskerville Regular';  
+    src: url("../fonts/Baskerville-Regular.ttf");  
+    //font-weight: normal;  
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+
+body, input, textarea, select {
+	/* font-family: 'Baskerville Regular','Libre Baskerville',Georgia,"Times New Roman",serif !important; */
+}
+h1,h2,h3,h4,h5,h6{
+/*	font-family:'Baskerville Regular','Libre Baskerville',Georgia,"Times New Roman",serif !important; */
+/*	font-family: serif !important; */
+}
+
+.kiemelt-hireink article.category-kiemelt {
+    margin-bottom: 8px ;
+    padding-bottom: 0;
+}
+
+div#sticky-posts-2.kiemelt-hireink {
+    margin-bottom: 0;
+}
+
+.simcal-default-calendar-list dt.simcal-day-label{
+	margin: 0 !important;
+}
+
+.simcal-default-calendar-list ul.simcal-events{
+	/*margin-top: 0;*/
+	padding-bottom: 0;
+}
+
+.simcal-default-calendar-list .simcal-event-details p{
+	margin-bottom: 0 !important;
+	padding-bottom: 0;
+}
+
+.simcal-default-calendar-list{
+	padding: 0 !important;
+}
+
